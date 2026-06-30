@@ -18,3 +18,13 @@ npx expo start
 ```
 
 Luego escanea el QR con Expo Go o presiona `i` (iOS) / `a` (Android) en la terminal.
+
+
+🙌 Cómo puedes apoyar 📢:
+
+✨ **Comparte este proyecto** con otros desarrolladores para que puedan beneficiarse 📢.
+
+☕ **Invítame un café o una cerveza 🍺**:
+   - [Paypal](https://www.paypal.me/iamdeveloper86) (`iamdeveloper86@gmail.com`).
+
+⚡ ¡No olvides SUSCRIBIRTE a la [Comunidad WebDeveloper](https://www.youtube.com/WebDeveloperUrianViera?sub_confirmation=1)!
